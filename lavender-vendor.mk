@@ -54,6 +54,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lavender/proprietary/vendor/etc/qdcm_calib_data_boe_td4320_fhdplus_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_boe_td4320_fhdplus_video_mode_dsi_panel.xml \
     vendor/xiaomi/lavender/proprietary/vendor/etc/qdcm_calib_data_shenchao_nt36672a_fhdplus_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_shenchao_nt36672a_fhdplus_video_mode_dsi_panel.xml \
     vendor/xiaomi/lavender/proprietary/vendor/etc/qdcm_calib_data_tianma_nt36672a_fhdplus_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_tianma_nt36672a_fhdplus_video_mode_dsi_panel.xml \
+    vendor/xiaomi/lavender/proprietary/vendor/etc/sensors/elliptic.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/elliptic.conf \
     vendor/xiaomi/lavender/proprietary/vendor/etc/sensors/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf \
     vendor/xiaomi/lavender/proprietary/vendor/etc/sensors/sensor_def_qcomdev.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/sensor_def_qcomdev.conf \
     vendor/xiaomi/lavender/proprietary/vendor/etc/thermal-engine-camera.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-camera.conf \
@@ -561,6 +562,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lavender/proprietary/vendor/lib/libchromatix_lavender_ov13855_sunny_india_ii_cpp_video_weixin.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_lavender_ov13855_sunny_india_ii_cpp_video_weixin.so \
     vendor/xiaomi/lavender/proprietary/vendor/lib/libchromatix_lavender_ov13855_sunny_india_ii_cpp_video_weixin_res1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_lavender_ov13855_sunny_india_ii_cpp_video_weixin_res1.so \
     vendor/xiaomi/lavender/proprietary/vendor/lib/libchromatix_lavender_ov13855_sunny_india_ii_default_preview_bu64297.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_lavender_ov13855_sunny_india_ii_default_preview_bu64297.so \
+    vendor/xiaomi/lavender/proprietary/vendor/lib/libchromatix_lavender_ov13855_ofilm_global_i_default_preview_bu64297_its.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_lavender_ov13855_ofilm_global_i_default_preview_bu64297_its.so \
     vendor/xiaomi/lavender/proprietary/vendor/lib/libchromatix_lavender_ov13855_sunny_india_ii_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_lavender_ov13855_sunny_india_ii_default_video.so \
     vendor/xiaomi/lavender/proprietary/vendor/lib/libchromatix_lavender_ov13855_sunny_india_ii_default_video_bu64297.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_lavender_ov13855_sunny_india_ii_default_video_bu64297.so \
     vendor/xiaomi/lavender/proprietary/vendor/lib/libchromatix_lavender_ov13855_sunny_india_ii_face_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_lavender_ov13855_sunny_india_ii_face_video_3a.so \
